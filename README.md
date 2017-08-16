@@ -1,4 +1,4 @@
-# pm2-hook
+# pm2-hook-bitbucket
 
 [![npm](https://img.shields.io/npm/v/pm2-hook.svg)](https://www.npmjs.com/package/pm2-hook)
 [![npm](https://img.shields.io/npm/dm/pm2-hook.svg)](https://www.npmjs.com/package/pm2-hook)
